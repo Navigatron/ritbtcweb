@@ -1,0 +1,13 @@
+/*No Navbar Overlap*/
+body{
+  padding-top: 80px;
+}
+.card-block{
+  padding: 2em;
+}
+.xcard{
+  margin: 1em;
+  padding: 1em;
+  border: 1px solid #eee;
+  border-radius: 3px;
+}
